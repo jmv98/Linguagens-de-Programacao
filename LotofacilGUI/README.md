@@ -13,7 +13,7 @@ Este projeto não é apenas uma simulação do jogo Lotofácil; é uma ferrament
 
 ### Como Utilizar:
 1. Certifique-se de que o Java Development Kit (JDK) versão 21 ou superior está instalado em sua máquina.
-2. Clone o repositório para sua máquina local utilizando o comando abaixo:
+2. Clone o repositório para sua máquina local utilizando o comando abaixo: <br>
 git clone: https://github.com/jmv98/Linguagens-de-Programacao
 4. Navegue até o diretório do projeto: `LotofacilGUI`
 5. Compile o código-fonte com o comando: `javac LotofacilGUI.java`
