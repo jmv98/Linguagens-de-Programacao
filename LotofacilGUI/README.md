@@ -21,15 +21,15 @@ Para iniciar sua jornada com o Projeto Lotofácil GUI, siga os passos abaixo. Ce
 ### Passos para Execução
 
 1. **Clonar o Repositório**: Primeiro, você precisa obter uma cópia do código-fonte em sua máquina local. Abra um terminal ou prompt de comando e digite o seguinte comando: 
-- **git clone https://github.com/jmv98/Linguagens-de-Programacao.git**
+- **git clone https://github.com/jmv98/Linguagens-de-Programacao.git**<br>
 -Isso fará o download do repositório para sua máquina.
 
 2. **Acessar o Diretório do Projeto**: Após clonar o repositório, navegue até o diretório `LotofacilGUI` com o comando: -
-- **cd Linguagens-de-Programacao/LotofacilGUI**
+- **cd Linguagens-de-Programacao/LotofacilGUI**<br>
 - Este passo é crucial para garantir que você esteja no local correto antes de começar a compilação.
 
 3. **Compilar o Código-Fonte**: Com o JDK devidamente instalado e estando no diretório correto, compile o arquivo `LotofacilGUI.java` utilizando:
-- **javac LotofacilGUI.java**
+- **javac LotofacilGUI.java**<br>
 - Isso preparará o aplicativo para ser executado.
 
 4. **Executar o Programa**: Finalmente, execute o aplicativo com o comando:
