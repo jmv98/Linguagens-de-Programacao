@@ -11,16 +11,31 @@ Este projeto não é apenas uma simulação do jogo Lotofácil; é uma ferrament
 - **Diversidade de Modalidades de Apostas**: Inclui apostas em números, letras e paridade, aumentando o engajamento e o interesse no jogo.
 - **Desenvolvimento Educacional**: Ideal para estudantes de programação, oferecendo um caso de estudo real no uso de Java Swing e na manipulação de eventos de interface gráfica.
 
-### Como Utilizar:
-1. Certifique-se de que o Java Development Kit (JDK) versão 21 ou superior está instalado em sua máquina.
-2. Clone o repositório para sua máquina local utilizando o comando abaixo: <br> git clone: https://github.com/jmv98/Linguagens-de-Programacao
-3. Navegue até o diretório do projeto `LotofacilGUI` utilizando o comando: <br> cd Linguagens-de-Programacao/LotofacilGUI
-4. Compile o código-fonte com o comando: <br> javac LotofacilGUI.java
-5. Execute o programa com o comando: <br> java LotofacilGUI
-6. Explore as diferentes modalidades de apostas através da interface gráfica interativa.
+## Como Utilizar
 
-## Requisitos
-- Java Development Kit (JDK) 21 ou superior.
+Para iniciar sua jornada com o Projeto Lotofácil GUI, siga os passos abaixo. Certifique-se de seguir cada etapa cuidadosamente para garantir uma execução bem-sucedida do programa.
+
+### Pré-requisitos
+- Java Development Kit (JDK) versão 21 ou superior instalado na sua máquina. Isso é essencial para compilar e executar o aplicativo Java.
+
+### Passos para Execução
+
+1. **Clonar o Repositório**: Primeiro, você precisa obter uma cópia do código-fonte em sua máquina local. Abra um terminal ou prompt de comando e digite o seguinte comando: 
+- **git clone https://github.com/jmv98/Linguagens-de-Programacao.git**
+-Isso fará o download do repositório para sua máquina.
+
+2. **Acessar o Diretório do Projeto**: Após clonar o repositório, navegue até o diretório `LotofacilGUI` com o comando: -
+- **cd Linguagens-de-Programacao/LotofacilGUI**
+- Este passo é crucial para garantir que você esteja no local correto antes de começar a compilação.
+
+3. **Compilar o Código-Fonte**: Com o JDK devidamente instalado e estando no diretório correto, compile o arquivo `LotofacilGUI.java` utilizando:
+- **javac LotofacilGUI.java**
+- Isso preparará o aplicativo para ser executado.
+
+4. **Executar o Programa**: Finalmente, execute o aplicativo com o comando:
+- **java LotofacilGUI** 
+
+Agora, o programa está rodando, e você pode explorar as diferentes modalidades de apostas através da interface gráfica interativa.
 
 ## Bibliotecas Utilizadas
 - **Java Swing**: Para construção da interface gráfica.
