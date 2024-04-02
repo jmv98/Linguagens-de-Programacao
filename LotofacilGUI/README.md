@@ -17,7 +17,7 @@ Este projeto não é apenas uma simulação do jogo Lotofácil; é uma ferrament
 
 git clone: https://github.com/jmv98/Linguagens-de-Programacao
 
-3. Navegue até o diretório do projeto `LotofacilGUI`:
+3. Navegue até o diretório do projeto: `LotofacilGUI`
 4. Compile o código-fonte com o comando: `javac LotofacilGUI.java`
 5.  Execute o programa com o comando: `java LotofacilGUI`
 6.  Explore as diferentes modalidades de apostas através da interface gráfica interativa.
