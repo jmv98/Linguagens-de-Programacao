@@ -22,7 +22,7 @@ Para iniciar sua jornada com o Projeto Lotofácil GUI, siga os passos abaixo. Ce
 
 1. **Clonar o Repositório**: Primeiro, você precisa obter uma cópia do código-fonte em sua máquina local. Abra um terminal ou prompt de comando e digite o seguinte comando: 
 - **git clone https://github.com/jmv98/Linguagens-de-Programacao.git**<br>
--Isso fará o download do repositório para sua máquina.
+- Isso fará o download do repositório para sua máquina.
 
 2. **Acessar o Diretório do Projeto**: Após clonar o repositório, navegue até o diretório `LotofacilGUI` com o comando: -
 - **cd Linguagens-de-Programacao/LotofacilGUI**<br>
