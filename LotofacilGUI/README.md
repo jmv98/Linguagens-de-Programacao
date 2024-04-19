@@ -21,14 +21,41 @@ O Projeto Lotofácil GUI transforma o tradicional jogo de loteria em uma experi�
 
 ### Passos para Execução
 
-- **Clonar o Repositório:** Primeiro, você precisa obter uma cópia do código-fonte em sua máquina local. Abra um terminal ou prompt de comando e digite o seguinte comando:
-git clone https://github.com/jmv98/Linguagens-de-Programacao.git
+- **Clonar o Repositório:**  Como Clonar o Repositório "Linguagens-de-Programacao" do GitHub
 
-- **Acessar o Diretório do Projeto:** Após clonar o repositório, navegue até o diretório LotofacilGUI com o comando:
-cd Linguagens-de-Programacao/LotofacilGUI
+ **Clonar o repositório "Linguagens-de-Programacao" permite que você tenha uma cópia local do código. Siga estes passos:**
 
-- **Compilar o Código-Fonte:** Com o JDK devidamente instalado e estando no diretório correto, compile o arquivo LotofacilGUI.java utilizando:
-javac LotofacilGUI.java. 
+ #### 1. Instalar o Git
+  Primeiro, instale o Git no seu computador. Baixe-o do site oficial: [https://git-scm.com/](https://git-scm.com/).
+
+ #### 2. Abrir o Terminal
+  Após a instalação, abra o terminal (Linux ou MacOS) ou o Git Bash (Windows).
+
+ #### 3. Copiar o URL do Repositório
+  Acesse o repositório no GitHub no seguinte link: [Linguagens-de-Programacao](https://github.com/jmv98/Linguagens-de-Programacao). Clique em "Code" e copie a URL fornecida. Escolha clonar usando HTTPS.
+
+ #### 4. Clonar o Repositório
+  No terminal, use o comando:
+  **git clone https://github.com/jmv98/Linguagens-de-Programacao.git**
+
+ #### 5. Navegar até o Diretório Clonado
+ **Entre no diretório clonado com:**
+ - cd Linguagens-de-Programacao
+
+#### 6. Explorar o Repositório
+ <strong>Liste todos os branches com:</strong>
+ - git branch -a <br/>
+
+<strong> Visualize os commits anteriores com:</strong>
+ - git log
+
+ **Esses passos lhe darão uma cópia local completa do repositório "Linguagens-de-Programacao", pronta para uso e modificação.**
+ <hr/>
+
+**Compilar o Código-Fonte:** 
+
+Com o JDK devidamente instalado e estando no diretório correto, compile o arquivo LotofacilGUI.java utilizando:
+**javac LotofacilGUI.java.**
 Isso preparará o aplicativo para ser executado.
 
 - **Executar o Programa:** Finalmente, execute o aplicativo com o comando:
