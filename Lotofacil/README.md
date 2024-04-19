@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://github.com/jmv98/Linguagens-de-Programacao/assets/150188099/47651bc7-0839-4f07-b1dd-fde27783a82b">
+</p>
+
 # Projeto Lotofácil
 
 ## Descrição
