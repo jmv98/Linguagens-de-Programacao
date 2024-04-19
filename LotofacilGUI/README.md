@@ -1,8 +1,10 @@
 # Projeto Lotofácil GUI
 
 <p align="center">
-  <img src="https://github.com/jmv98/Linguagens-de-Programacao/assets/150188099/3c8f73a1-6364-49c6-9d41-aed90da78f0d" alt="lotofacil_do_gustavo_trevo-removebg-preview">
+  <img src="https://github.com/jmv98/Linguagens-de-Programacao/assets/150188099/a7ae88ba-0b7d-4213-a0bb-b700ac9ab917">
 </p>
+
+
 
 
 ## 🌟 Introdução
