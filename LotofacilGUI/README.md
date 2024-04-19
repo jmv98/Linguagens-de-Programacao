@@ -1,7 +1,9 @@
 # Projeto Lotofácil GUI
 
-![Java](https://img.shields.io/badge/Java-Swing-blue.svg?style=flat&logo=java)
-![AWT](https://img.shields.io/badge/Java-AWT-lightgrey.svg?style=flat&logo=java)
+<p align="center">
+  <img src="https://github.com/jmv98/Linguagens-de-Programacao/assets/150188099/3c8f73a1-6364-49c6-9d41-aed90da78f0d" alt="lotofacil_do_gustavo_trevo-removebg-preview">
+</p>
+
 
 ## 🌟 Introdução
 O Projeto Lotofácil GUI transforma o tradicional jogo de loteria em uma experiência digital interativa e educativa. Utilizando Java Swing, esta aplicação oferece uma interface gráfica rica e intuitiva, permitindo aos jogadores realizar apostas em números, letras e escolher entre par ou ímpar. Este projeto serve não só como entretenimento, mas também como um recurso didático para quem deseja aprofundar conhecimentos em programação de interfaces gráficas e lógica de programação em Java.
@@ -42,7 +44,7 @@ Agora, o programa está rodando, e você pode explorar as diferentes modalidades
 
 ![image](https://github.com/jmv98/Linguagens-de-Programacao/assets/150188099/ac41f2ba-cd56-42ba-a7cb-7c589c9bff46)
 - **Vídeo de demonstração de como a aposta de 0 a 100 funciona no link a seguir:**
--  https://github.com/jmv98/Linguagens-de-Programacao/assets/150188099/4a20db88-e99a-42bd-aa82-579e9c424fa9
+- https://github.com/jmv98/Linguagens-de-Programacao/assets/150188099/4a20db88-e99a-42bd-aa82-579e9c424fa9
 <hr/>
    
   ### 🍀 Aposta de A á Z 
@@ -58,12 +60,12 @@ Agora, o programa está rodando, e você pode explorar as diferentes modalidades
 
 ### 🍀 Aposta Par ou Ímpar
 #### **Funcionamento**
-- O jogador escolhe entre um numero par se sua aposta é para vitória de numero par ou impar se acreditar que a vitória será de numero ímpar.
-- Na lógica do sistema foi definido que números pares serão os sorteados, então se o usuário escolher um número par, receberá o prêmio.
+  - O jogador escolhe entre um numero par se sua aposta é para vitória de numero par ou impar se acreditar que a vitória será de numero ímpar.
+  - Na lógica do sistema foi definido que números pares serão os sorteados, então se o usuário escolher um número par, receberá o prêmio.
 
-  ![image](https://github.com/jmv98/Linguagens-de-Programacao/assets/150188099/1bcd6767-68ba-4924-8357-afd6123bb592)
-  <br/> • **Vídeo de demonstração de como a aposta de A á Z funciona no link a seguir:**
-  <br/> • https://github.com/jmv98/Linguagens-de-Programacao/assets/150188099/7bb6e3d4-bb55-42e5-b148-bc5ea4088430
+  ![image](https://github.com/jmv98/Linguagens-de-Programacao/assets/150188099/1bcd6767-68ba-4924-8357-afd6123bb592)<br/>
+  • **Vídeo de demonstração de como a aposta de A á Z funciona no link a seguir:**<br/>
+  • https://github.com/jmv98/Linguagens-de-Programacao/assets/150188099/7bb6e3d4-bb55-42e5-b148-bc5ea4088430
   <hr/>
 
   ## 📚 Bibliotecas Utilizadas <br/>
